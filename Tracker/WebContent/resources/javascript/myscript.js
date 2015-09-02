@@ -1,0 +1,4 @@
+nload=function(){
+	alert("yes");
+	
+}
